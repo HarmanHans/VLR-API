@@ -1,0 +1,11 @@
+{
+  "name": "val-api",
+  "version": "1.0.0",
+  "description": "API for Pro Valorant Matches",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
